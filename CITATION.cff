@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+@article{wei,
+    author = {Hsiu-Chuan Wei},
+    title = {A mathematical model of tumour growth with Beddington–DeAngelis functional response: a case of cancer without disease},
+    journal = {Journal of Biological Dynamics},
+    volume = {12},
+    pages = {194-210},
+    year = {2018}
+}
+@article{morgan,
+    author = {Robert Morgan},
+    title = {Linearization and Stability Analysis of Nonlinear Problems},
+    journal = {Rose-Hulman Undergraduate Mathematics Journal},
+    volume = {16},
+    issue = {2},
+    article = {5},
+    year = {2015}
+}
