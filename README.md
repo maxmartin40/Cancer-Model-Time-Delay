@@ -24,6 +24,3 @@ D = \frac{dL^l}{w+sT^l+L^l}
 $$
 
 The code in this repository includes plotting the system numerically, finding equilibrium points, and bifurcation analysis.
-
-## References
-Please see citation file for all references.
