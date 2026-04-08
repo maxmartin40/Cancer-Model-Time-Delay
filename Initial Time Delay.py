@@ -44,6 +44,7 @@ A_44_sub = -beta
 A_34_sub = T_0*r_2
 A_12_sub = c*T_0
 
+# Define matrix using above symbols
 A = Matrix([[A_11-lamb,A_12,A_13,0],[A_21,A_22-lamb,0,A_24],[A_31,A_32,A_33-lamb,A_34],[0,0,0,A_44-lamb]])
 
 # Print determinant
